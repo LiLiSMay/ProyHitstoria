@@ -1,0 +1,27 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: rgb(229, 248, 18);
+}
+
+h1{
+    color: coral;
+    font-family: tahoma;
+}
+
+h2{
+    color: rgb(6, 47, 232);
+}
+
+img{
+    width: 300px;
+    height: 180px;
+
+}
+
+p{
+    color: blue;
+    background-color: aliceblue;
+}
+
